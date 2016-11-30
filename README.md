@@ -11,7 +11,7 @@ APP Analytics Performance is an Add-On for Fiddler to generate a report of appli
 
 ## How to install
 
-Add the "AppPerformance.dll" DLL to the "C: \ Program Files (x86) \ Fiddler2 \ Scripts" folder for Windows 64bits or "C: \ Program Files \ Fiddler2 \ Scripts" for Windows 32bits.
+Add the "AppPerformance.dll" DLL to the "C:\Program Files(x86)\Fiddler2\Scripts" folder for Windows 64bits or "C:\Program Files\Fiddler2\Scripts" for Windows 32bits.
 
 ## How to use
 
