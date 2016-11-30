@@ -20,13 +20,18 @@ Add the "AppPerformance.dll" DLL to the "C: \ Program Files (x86) \ Fiddler2 \ S
     * IOS: http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureForiOS
     * WP: http://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/MonitorWindowsPhone7
 2. Open the APP Analytics Performance setup by opening the "Tools", "APP Analytics Performance" and "Config" menu.
+
 ![Open config](/Screenshots/OpenConfig.png)
+
 3. Enter the API base you want to report.
+
 ![Config Window](/Screenshots/Config.png)
+
 4. Click "Save".
 5. Start "APP Analytics Performance" from the "Tools" menu, "APP Analytics Performance" and "Run APP Analytics".
 6. Choose a location for the report file.
 7. Make use of the application for as long as you want.
 8. Stop "APP Analytics Performance".
 9. Open the file with the report.
+
 ![Report File](/Screenshots/ExcelFile.png)
